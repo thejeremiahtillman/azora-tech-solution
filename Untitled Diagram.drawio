@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T03:58:52.577Z" agent="5.0 (Windows)" etag="V4aANF9PSPI4tYFZh5JJ" version="16.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-14T04:20:19.258Z" agent="5.0 (Windows)" etag="ph28IxgYBqBxlffrQoWu" version="16.2.6" type="github" pages="3">
   <diagram id="qDX2wK5yDhkzM-1Gh7ZK" name="Overhead">
     <mxGraphModel dx="1303" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,19 +89,19 @@
       <root>
         <mxCell id="YqfEIQPyW_onU3AWnNYu-0" />
         <mxCell id="YqfEIQPyW_onU3AWnNYu-1" parent="YqfEIQPyW_onU3AWnNYu-0" />
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
+        <mxCell id="YqfEIQPyW_onU3AWnNYu-5" value="tall Dresser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="790" y="110" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
+        <mxCell id="YqfEIQPyW_onU3AWnNYu-6" value="39&#39; dresser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="790" y="203" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
+        <mxCell id="YqfEIQPyW_onU3AWnNYu-7" value="&lt;div&gt;NightStand&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="790" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YqfEIQPyW_onU3AWnNYu-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="918" y="36" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/travel-and-leisure-vol-1/512/2-128.png" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
+        <mxCell id="YqfEIQPyW_onU3AWnNYu-9" value="&lt;div&gt;cube shelf&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/travel-and-leisure-vol-1/512/2-128.png" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="880" y="220" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YqfEIQPyW_onU3AWnNYu-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
