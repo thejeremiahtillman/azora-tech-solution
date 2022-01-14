@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:28:16.164Z" agent="5.0 (Windows)" etag="e6W7wn4z1dFQ8ya3qeVm" version="16.2.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-14T17:54:22.124Z" agent="5.0 (Windows)" etag="4x_0e_LGnm2qdjN76stf" version="16.2.6" type="github" pages="4">
   <diagram id="qDX2wK5yDhkzM-1Gh7ZK" name="Overhead">
     <mxGraphModel dx="1303" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -111,7 +111,10 @@
           <mxGeometry x="78" y="100" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="tWhhZ3eICI5UfEqp0rSC-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
-          <mxGeometry x="598" y="330" width="90" height="110" as="geometry" />
+          <mxGeometry x="550" y="366" width="38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tWhhZ3eICI5UfEqp0rSC-2" value="smart mirror" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/harry-potter-outline-collection-1/60/41_-_Harry_Potter_-_Outline_-_Mirror_Of_Erised-128.png;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
+          <mxGeometry x="588" y="273" width="158" height="158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
