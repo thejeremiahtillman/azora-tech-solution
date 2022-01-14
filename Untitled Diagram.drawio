@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:54:22.124Z" agent="5.0 (Windows)" etag="4x_0e_LGnm2qdjN76stf" version="16.2.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-14T17:58:30.974Z" agent="5.0 (Windows)" etag="YRnCW5SFn8GPIiSMGqpg" version="16.2.6" type="github" pages="4">
   <diagram id="qDX2wK5yDhkzM-1Gh7ZK" name="Overhead">
-    <mxGraphModel dx="1303" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="30" width="760" height="410" as="geometry" />
+          <mxGeometry x="10" y="30" width="778" height="410" as="geometry" />
         </mxCell>
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
           <mxGeometry x="120" width="640" height="410" as="geometry" />
@@ -25,29 +25,32 @@
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorBifold;dx=0.3;direction=south;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
           <mxGeometry x="110" y="155" width="40" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="gPWuMf4fXVIlHTBcGcgm-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/furniture-4-4/512/furniture_living_room_home_house_offie-09-128.png;direction=south;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="650" y="141" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWuMf4fXVIlHTBcGcgm-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="380" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWuMf4fXVIlHTBcGcgm-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="380" y="345" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWuMf4fXVIlHTBcGcgm-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="710" y="110" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="uVYfZVgLWIywg0dsigBu-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="714" y="247" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWuMf4fXVIlHTBcGcgm-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gPWuMf4fXVIlHTBcGcgm-3">
+          <mxGeometry x="180" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" vertex="1" parent="1">
           <mxGeometry x="440" y="20" width="100" height="10" as="geometry" />
         </mxCell>
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="440" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gPWuMf4fXVIlHTBcGcgm-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="1">
-          <mxGeometry x="790" y="110" width="100" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="gPWuMf4fXVIlHTBcGcgm-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=east;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="80" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="gPWuMf4fXVIlHTBcGcgm-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="1">
-          <mxGeometry x="790" y="203" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="gPWuMf4fXVIlHTBcGcgm-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/furniture-4-4/512/furniture_living_room_home_house_offie-09-128.png" vertex="1" parent="1">
-          <mxGeometry x="790" y="297" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="gPWuMf4fXVIlHTBcGcgm-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="790" y="10" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gPWuMf4fXVIlHTBcGcgm-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="918" y="36" width="42" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -85,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="entry wall" id="u1gUVR42pbH0XvljfRQ6">
-    <mxGraphModel dx="1422" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="YqfEIQPyW_onU3AWnNYu-0" />
         <mxCell id="YqfEIQPyW_onU3AWnNYu-1" parent="YqfEIQPyW_onU3AWnNYu-0" />
@@ -94,18 +97,6 @@
         </mxCell>
         <mxCell id="YqfEIQPyW_onU3AWnNYu-5" value="tall Dresser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="413" y="320" width="127" height="116" as="geometry" />
-        </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-6" value="39&#39; dresser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
-          <mxGeometry x="790" y="203" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-7" value="&lt;div&gt;NightStand&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
-          <mxGeometry x="790" y="10" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
-          <mxGeometry x="918" y="36" width="42" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="YqfEIQPyW_onU3AWnNYu-9" value="&lt;div&gt;cube shelf&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/travel-and-leisure-vol-1/512/2-128.png" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
-          <mxGeometry x="880" y="220" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="tWhhZ3eICI5UfEqp0rSC-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ie_Financial_set/128/10.png" vertex="1" parent="YqfEIQPyW_onU3AWnNYu-1">
           <mxGeometry x="78" y="100" width="340" height="340" as="geometry" />
@@ -120,16 +111,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Window wall" id="FdlUh0nRBg-crCUJTBsz">
-    <mxGraphModel dx="1422" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="gP1poXDrMKi5oks_25EL-0" />
         <mxCell id="gP1poXDrMKi5oks_25EL-1" parent="gP1poXDrMKi5oks_25EL-0" />
-        <mxCell id="gP1poXDrMKi5oks_25EL-2" value="tall Dresser" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;" vertex="1" parent="gP1poXDrMKi5oks_25EL-1">
-          <mxGeometry x="790" y="110" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="gP1poXDrMKi5oks_25EL-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gP1poXDrMKi5oks_25EL-1">
-          <mxGeometry x="918" y="36" width="42" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="gP1poXDrMKi5oks_25EL-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="gP1poXDrMKi5oks_25EL-1">
           <mxGeometry x="120" y="100" width="640" height="410" as="geometry" />
         </mxCell>
